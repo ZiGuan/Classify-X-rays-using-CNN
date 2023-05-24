@@ -16,7 +16,7 @@ The objectives of this CNN project is practice how to apply convolutional layer 
 ## Model Loss, Confusion Matrix
 
 #### Model 1:
-![](\images\model_1_loss.png) </br>
+![](/images/model_1_loss.png) </br>
 ![](\images\model_1.png) </br>
 
 #### Model 2:
