@@ -5,7 +5,7 @@ The objectives of this CNN project is practice how to apply convolutional layer 
 * Model 2: Using input, two convolutional layer, two MaxPooling2D layer, two dropout layer, flatten layer and output to train model.
 * Model 3: Using ResNet50V2 as base model, it consists of 50 layers, including convolutional layers, pooling layers, and fully connected layers.
 
-#### Based on `20` epoch`, `0.001` learning rate, `Adam` optimier, `CategoricalCrossentropy` loss function and `CategoricalAccuracy` metrics.
+#### Based on `20` epoch, `0.001` learning rate, `Adam` optimier, `CategoricalCrossentropy` loss function and `CategoricalAccuracy` metrics.
 
 |         | Training Accuracy | Validation Accuraccy |  Training Loss  |  Validation Loss  |
 |---------|-------------------|----------------------|-----------------|-------------------|
