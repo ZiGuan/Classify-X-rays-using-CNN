@@ -6,7 +6,7 @@ The objectives of this CNN project is practice how to apply convolutional layer 
 * Model 3: Using ResNet50V2 as base model, it consists of 50 layers, including convolutional layers, pooling layers, and fully connected layers.
 
 |         | Training Accuracy | Validation Accuraccy |
-------------------------------------------------------
+|---------|--------------------------------------------
 
 
 
