@@ -13,6 +13,21 @@ The objectives of this CNN project is practice how to apply convolutional layer 
 | Model 2 |      88.9191 %    |     93.7112 %        |      0.2903     |     0.197         |
 | Model 3 |      95.1205 %    |     94.9534 %        |      0.1401     |     0.1483        |
 
+## Confusion Matrix
+
+#### Model 1:
+![](\images\model_1.png) </br>
+
+#### Model 2:
+![](\images\model_2.png) </br>
+
+#### Model 3:
+![](\images\model_3.png) </br>
+
+From the confusion matrix result, the accuracy of classification for `Covid-19` and `Normal` will lower than `Penumonia` since the dataset was imbalanced and most of the images are `Pneumonia`. 
+
+
+
 
 
 
