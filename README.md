@@ -35,3 +35,4 @@ From the confusion matrix result, the accuracy of classification for `Covid-19` 
 
 
 
+# X-rays-Classification-using-CNN
