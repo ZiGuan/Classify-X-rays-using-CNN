@@ -1,5 +1,7 @@
 # Classify-X-rays-using-CNN
 
+The dataset contains chest x-ray images of Covid-19, Pneumonia and normal patients can be extracted from https://www.kaggle.com/datasets/prashant268/chest-xray-covid19-pneumonia
+
 The objectives of this CNN project is practice how to apply convolutional layer in image classification project. I trained three different model and compare their performance with `accuracy` and `confusion matrix` </br>
 * Model 1: Using input, flatten and output layer to train model.
 * Model 2: Using input, two convolutional layer, two MaxPooling2D layer, two dropout layer, flatten layer and output to train model.
@@ -7,11 +9,11 @@ The objectives of this CNN project is practice how to apply convolutional layer 
 
 #### Based on `20` epoch, `0.001` learning rate, `Adam` optimier, `CategoricalCrossentropy` loss function and `CategoricalAccuracy` metrics.
 
-|         | Training Accuracy | Validation Accuraccy |  Training Loss  |  Validation Loss  |
-|---------|-------------------|----------------------|-----------------|-------------------|
-| Model 1 |      77.8383 %    |     79.4255 %        |      4.4109     |     3.1448        |
-| Model 2 |      88.9191 %    |     93.7112 %        |      0.2903     |     0.197         |
-| Model 3 |      95.1205 %    |     94.9534 %        |      0.1401     |     0.1483        |
+|         | Training Accuracy | Validation Accuraccy |  
+|---------|-------------------|----------------------|
+| Model 1 |      78.8103 %    |     86.1801 %        |     
+| Model 2 |      88.1998 %    |     92.3913 %        |      
+| Model 3 |      95.3149 %    |     92.0031 %        |     
 
 ## Model Loss, Confusion Matrix
 
